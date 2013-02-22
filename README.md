@@ -1,4 +1,3 @@
-
-Sample application skeleton php yaf
+Sample application skeleton for php-yaf
 
 ============

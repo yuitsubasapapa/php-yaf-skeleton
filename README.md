@@ -1,7 +1,6 @@
 yafdemo
 =======
 
-php yaf demo
+Sample application skeleton php yaf
 
 
-感谢鸟哥给我们提供这么高效的框架
